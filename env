@@ -1,0 +1,5 @@
+# IPL Live Dashboard — Environment Variables
+
+# Get your free API key at: https://cricapi.com
+
+CRICKET_API_KEY=a9003c67-058a-47c1-9d42-9871c669745c
